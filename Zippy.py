@@ -6,7 +6,7 @@ import libpyAI as ai
 class Zippy:
 
     def __init__(self, speedLimit):
-        self.speedLimite = speedLimit
+        self.speedLimit = speedLimit
         self.frameCount = 0
 
         # Autostart
